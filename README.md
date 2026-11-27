@@ -137,7 +137,7 @@ src/
 **Vasisht GV** – CMRIT, Bengaluru  
 Hackathon: CMRIT × Intel 1 Million Minds 2026
 
----
+----
 
 <div align="center">
 
