@@ -24,7 +24,7 @@
 
 ## 🎮 What is this?
 
-**Intel Arena** is an immersive, persona-driven game experience built for the [CMRIT × Intel 1 Million Minds Hackathon]. Instead of showing boring specs, we put the player *inside* a full 24-hour day — from the Metro to the Cafe to Midnight — and let them *feel* the difference between a cheap laptop and an Intel AI PC.
+**Intel Arena** is an immersive, persona-driven game experience built for the CMRIT × Intel 1 Million Minds Hackathon. Instead of showing boring specs, we put the player *inside* a full 24-hour day — from the Metro to the Cafe to Midnight — and let them *feel* the difference between a cheap laptop and an Intel AI PC.
 
 **90 seconds. No sign-up. All story.**
 
