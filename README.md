@@ -133,6 +133,8 @@ src/
 ## 👤 Built By
 
 **Sriram Bhaskara** — CMRIT, Bengaluru
+**Sujay H** — CMRIT, Bengaluru
+**Vasisht GV** — CMRIT, Bengaluru
 Hackathon: CMRIT × Intel 1 Million Minds 2024
 
 ---
